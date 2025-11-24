@@ -1,0 +1,11 @@
+.indy.build
+.metadata
+indy.diagram/map/
+indy.diagram/proc/
+.map_diagram/
+.proc_diagram/
+**/indy.diagram/map/
+**/indy.diagram/proc/
+**/.settings/org.eclipse.core.resources.prefs/
+**/indy.diagram/
+**/org.eclipse.core.resources.prefs
