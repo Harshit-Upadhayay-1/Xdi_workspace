@@ -6,7 +6,6 @@ indy.diagram/proc/
 .proc_diagram/
 **/indy.diagram/map/
 **/indy.diagram/proc/
-**/.settings/org.eclipse.core.resources.prefs/
 !**/.settings/
 !**/.settings/org.eclipse.core.resources.prefs
 **/indy.diagram/
